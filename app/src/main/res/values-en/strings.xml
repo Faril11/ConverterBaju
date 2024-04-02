@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Converter Baju</string>
+    <string name="cb_intro">Clothes Converter is an application that can determine the right size of clothes based on weight and height</string>
+    <string name="berat_badan">Weight</string>
+    <string name="tinggi_badan">Height</string>
+    <string name="pria">Man</string>
+    <string name="wanita">Women</string>
+    <string name="hitung">Calculate Clothes Size</string>
+    <string name="tentang_aplikasi">About Application</string>
+    <string name="kembali">Back</string>
+    <string name="copyright">Clothes Converter is an application that can determine the right size of clothes based on weight and height. \\Copyright 2021 - 2024 Fazrul Ridha Alliandre. All rights reversed.</string>
+    <string name="recommended_size_message">Recommended dress size: %1$</string>
+    <string name="input_invalid">" Can not be empty"</string>
+</resources>
